@@ -62,10 +62,10 @@ Developed by: RegisterNumber:212223220024
 
 
 **RTL realization**
+![ex2 logic n](https://github.com/gayathrimurugan12/BOOLEAN_FUNCTION_MINIMIZATION/assets/149365374/6cff111c-1347-40d2-9065-30789ccfdde0)
 
 **Output:**
-![ex2 logic gate](https://github.com/gayathrimurugan12/BOOLEAN_FUNCTION_MINIMIZATION/assets/149365374/125f9701-6926-4cae-beec-9f6959b2cb03)
-![ex2](https://github.com/gayathrimurugan12/BOOLEAN_FUNCTION_MINIMIZATION/assets/149365374/1bf69ce4-aa8e-41ac-af34-a7634c0743e9)
+![Screenshot 2024-03-23 113554](https://github.com/gayathrimurugan12/BOOLEAN_FUNCTION_MINIMIZATION/assets/149365374/f8821bf3-7cd6-49e5-8e6d-f583923eed10)
 
 **RTL**
 
